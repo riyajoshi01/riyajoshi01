@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tanuja joshi</h1>
 <h3 align="center">A student persuing Btech.</h3>
 
+<img align="right" src="coding.jpg" alt="coding" width="400px">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyajoshi01&label=Profile%20views&color=0e75b6&style=flat" alt="riyajoshi01" /> </p>
 
 - 📫 How to reach me *tanujajoshi2006@gmail.com*
